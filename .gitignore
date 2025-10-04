@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+.venv311/
+env/
+venv/
+*.env
+
+# Byte-compiled / cache
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+
+
+# Streamlit cache / temp
+.streamlit/
+*.db
+
+# FAISS / embeddings
+embeddings/
+faiss_index.pkl
+
+models/
+
+# Docker
+*.dockerignore
+*.tar
+*.log
+*.env

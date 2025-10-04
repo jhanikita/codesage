@@ -19,8 +19,6 @@ CodeSage leverages RAG (Retrieval-Augmented Generation) and LLM technology to he
 ## setup
 
 ### 1. Clone the repository
-
-```bash
 git clone https://github.com/<your-username>/codesage.git
 cd codesage
 
